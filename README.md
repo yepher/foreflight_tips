@@ -20,15 +20,27 @@ The [ForeFight Users](https://www.facebook.com/groups/2036312003337297/) Faceboo
 * Warning: [Accident Case Study: Time Lapse – misunderstanding in-cockpit weather displays can lead to tragedy](https://www.youtube.com/watch?v=83uvKWJS2os)
 
 
-
 * [ForeFlight Radar Blog](https://blog.foreflight.com/2016/07/14/new-radar-layer-updates/?fbclid=IwAR09Divh5TJyqiDU-J6hMPeycPVYY-5QcQVaA7nDU4AHSZN4ZXRNmluZYMk)
 
 ### Storm Track
 
 * ForeFlight blog on [Storm Tracks](https://blog.foreflight.com/2012/07/16/storm-tracks-now-available/)
 
-* What do these lines with circles mean?
-	* The line and circles extend outward from the storm cell and predict where the storm could be in `20`, `40`, and `60` minutes.
-	* Red circles ![noted tstorm](images/noted_thunderstorm.png) are noted thunderstorm activity
+___
+
+**What do these lines with circles mean?**
 
 ![store track](images/storm_track.jpg)
+
+* The line and circles extend outward from the storm cell and predict where the storm could be in `20`, `40`, and `60` minutes.
+	
+| Symbol | Meaning |
+|---|---|
+| ![Lightning](images/lightning.png) | Lightning (in last 5 minutes) |
+|![noted tstorm](images/mesocyclone.png) | Mesocyclone activity<br>(Vortex of rising , rotating air) | 
+| ![Tornado](images/tornado.png) | Tornado|
+| ![Hail](images/hail.png)  | Hail |
+	
+___
+
+
