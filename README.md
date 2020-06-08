@@ -5,9 +5,12 @@ The [ForeFight Users](https://www.facebook.com/groups/2036312003337297/) Faceboo
 <i>This repo is in no way affiliated with ForeFlight, A Boeing Company</i>
 
 
+[Pilot Guide](http://cloudfront.foreflight.com/docs/ff/12.4/v12.4%20-%20foreflight%20mobile%20pilot%20guide%20optimized.pdf) for current ForeFlight Version
+
+
 ## Flight Planning
 
-* How do I add a fuel stop to a flight plan?
+* How do I add a fuel stop to a flight plan? A great find by ADjordjevic
 	* Add `STAY/0030` to the the flight plan which means a 30m stop. The format is `STAY/HHMM` where `HH` = hours and `MM` = minutes
 	* ForeFligh Blog [Adding A Stop](https://support.foreflight.com/hc/en-us/articles/360034183613-How-do-I-file-a-STAY-at-a-waypoint-within-my-flight-plan-in-Europe-?mobile_site=true&fbclid=IwAR0p6MjLbacYL6xXIqyhKbEzviUMON19Irgr8y6bqXF6hicteYiP3glnZpo)
 	* This maybe a useful way to log cross country flights too so it shows up in ForeFlights reports.
@@ -25,6 +28,16 @@ The [ForeFight Users](https://www.facebook.com/groups/2036312003337297/) Faceboo
 ### Storm Track
 
 * ForeFlight blog on [Storm Tracks](https://blog.foreflight.com/2012/07/16/storm-tracks-now-available/)
+
+### Winds Layer
+
+The surface wind layer has the normal wind barb. The calm wind graphic is a circle with a dot in it. It looks very similar to the sky coverage pie but there is a dot in the middle.
+
+| Symbol | Meaning |
+|---|---|
+| ![calm](images/wind_calm.png) | Wind Calm |
+| | |
+
 
 ___
 
