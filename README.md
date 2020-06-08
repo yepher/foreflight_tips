@@ -25,18 +25,10 @@ The [ForeFight Users](https://www.facebook.com/groups/2036312003337297/) Faceboo
 
 * [ForeFlight Radar Blog](https://blog.foreflight.com/2016/07/14/new-radar-layer-updates/?fbclid=IwAR09Divh5TJyqiDU-J6hMPeycPVYY-5QcQVaA7nDU4AHSZN4ZXRNmluZYMk)
 
+
 ### Storm Track
 
 * ForeFlight blog on [Storm Tracks](https://blog.foreflight.com/2012/07/16/storm-tracks-now-available/)
-
-### Winds Layer
-
-The surface wind layer has the normal wind barb. The calm wind graphic is a circle with a dot in it. It looks very similar to the sky coverage pie but there is a dot in the middle.
-
-| Symbol | Meaning |
-|---|---|
-| ![calm](images/wind_calm.png) | Wind Calm |
-| | |
 
 
 ___
@@ -56,4 +48,12 @@ ___
 	
 ___
 
+### Winds Layer
+
+The surface wind layer has the normal wind barb. The calm wind graphic is a circle with a dot in it. It looks very similar to the sky coverage pie but there is a dot in the middle.
+
+| Symbol | Meaning |
+|---|---|
+| ![calm](images/wind_calm.png) | Wind Calm |
+| | |
 
